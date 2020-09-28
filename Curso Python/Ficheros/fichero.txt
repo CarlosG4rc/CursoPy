@@ -1,0 +1,4 @@
+Una linea con texto
+Otra linea con texto
+Esta linea ha sido modificada
+Cuarta linea
